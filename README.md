@@ -40,16 +40,18 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 
 - **Intersections**
   - **Characters** + **Convenience** = **Personalization**
-    - the personalization of the story experience for each person based on their relationship to the world
+    - The personalization of the story experience for each person based on their relationship to the world
   - **Convenience** + **Community** = **Inter-Community Interaction**
-    - the continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
+    - The continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
   - **Community** + **Characters** = **Community Interaction**
-    - the relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
+    - The relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
 
 
 ### Pro/Con List of Existing Solutions:
 
 - Narrative based systems such as Powered by the Apocalypse
+
+## Proposed CARPS Rules
 
 ### Table 1-1: Original Craps Names
 |   |          1          |          2          |          3          |          4          |          5          |          6          |
@@ -103,3 +105,35 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 | Identical: 4,6  | 1/36 | Negative Critical (Major, Minor) |
 | Identical: 8,10 | 1/36 | Positive Critical (Minor, Major) |
 | Identical: 12   | 1/36 | Positive Critical (Auto-Win)     |
+
+### Aptitudes
+- Physical (Phy)
+  - Represents physical strength & constitution
+- Agility (Agi)
+  - Represents dexterity & reflex
+- Cognizance (Cog)
+  - Represents perception & scrutiny
+- Acumen (Acc)
+  - Represents logical reasoning & mathematical ability
+- Knowledge (Kno)
+  - Represents memory & academic knowledge
+- Personality (Per)
+  - Represents charisma & presence
+- Occultism (Occ)
+  - Represents study of magic, alchemy, extra-sensory perception, astrology, spiritualism, religion, and/or divination depending on your setting.
+
+
+  Aptitudes are a range of 6 from -2 to +3
+  - -2 - Awful
+  - -1 - Poor
+  - 0 - Average
+  - +1 - Skilled
+  - +2 - Professional
+  - +3 - Legendary
+
+Difficulty
+- Mundane: No Roll
+- Easy: 
+- Moderate:
+- Hard:
+- Impossible:
