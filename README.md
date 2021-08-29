@@ -123,17 +123,25 @@ It historically referred to the News/TV media paradigm, but in the digital era i
   - Represents study of magic, alchemy, extra-sensory perception, astrology, spiritualism, religion, and/or divination depending on your setting.
 
 
-  Aptitudes are a range of 6 from -2 to +3
-  - -2 - Awful
-  - -1 - Poor
-  - 0 - Average
-  - +1 - Skilled
-  - +2 - Professional
-  - +3 - Legendary
+ Aptitudes are in a range of 6 from -2 to +3
+New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 
-Difficulty
-- Mundane: No Roll
-- Easy: 
-- Moderate:
-- Hard:
-- Impossible:
+
+### Table 3-1: 
+| Rank | Level        |
+|------|--------------|
+| -2   | Awful        |
+| -1   | Poor         |
+|  0   | Average      |
+| +1   | Skilled      |
+| +2   | Professional |
+| +3   | Legendary    |
+
+### Table 3-2: Difficulty
+| Difficulty | Effect                                  |
+|------------|-----------------------------------------|
+| Mundane    | No Roll unless it serves the narrative. |
+| Easy       |  |
+| Moderate   |  |
+| Hard       |  |
+| Impossible | Auto-Fail unless Critical or Legendary. |
