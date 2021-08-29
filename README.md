@@ -32,19 +32,19 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 **"3 C's" of Transmedia**
 
 ![Transmedia Venn Diagram](/images/the-three-Cs-of-transmedia-storytelling.jpg)
+- **Concepts**
+  - **Characters**: the importance of narrative.
+  - **Convenience**: the importance of getting the right content to the right people at the right time
+  - **Community**: the importance of connecting fans and rewarding them.
 
-- **Characters**: the importance of narrative.
-- **Convenience**: the importance of getting the right content to the right people at the right time
-- **Community**: the importance of connecting fans and rewarding them.
 
-
-
-- **Characters** + **Convenience** = **Personalization**
-  - the personalization of the story experience for each person based on their relationship to the world
-- **Convenience** + **Community** = **Inter-Community Interaction**
-  - the continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
-- **Community** + **Characters** = **Community Interaction**
-  - the relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
+- **Intersections**
+  - **Characters** + **Convenience** = **Personalization**
+    - the personalization of the story experience for each person based on their relationship to the world
+  - **Convenience** + **Community** = **Inter-Community Interaction**
+    - the continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
+  - **Community** + **Characters** = **Community Interaction**
+    - the relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
 
 
 ### Pro/Con List of Existing Solutions:
