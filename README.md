@@ -38,6 +38,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 - **Community**: the importance of connecting fans and rewarding them.
 
 
+
 - **Characters** + **Convenience** = **Personalization**
   - the personalization of the story experience for each person based on their relationship to the world
 - **Convenience** + **Community** = **Inter-Community Interaction**
