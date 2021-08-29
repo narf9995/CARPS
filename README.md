@@ -39,11 +39,11 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 
 
 - **Characters** + **Convenience** = **Personalization**
- - the personalization of the story experience for each person based on their relationship to the world
+  - the personalization of the story experience for each person based on their relationship to the world
 - **Convenience** + **Community** = **Inter-Community Interaction**
- - the continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
+  - the continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
 - **Community** + **Characters** = **Community Interaction**
- - the relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
+  - the relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
 
 
 ### Pro/Con List of Existing Solutions:
