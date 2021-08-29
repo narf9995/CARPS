@@ -145,3 +145,11 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | Moderate   |  |
 | Hard       |  |
 | Impossible | Auto-Fail unless Critical or Legendary. |
+
+
+Characters in your games are going to do things.
+For most things they do, there’s no need for rules.
+If the average person could do it on auto-pilot, so can your character.
+Characters can stand, walk, talk, go shopping and otherwise do normal things without needing to roll dice.
+They can even take mundane actions relevant to their aptitudes, like driving to work, without worrying about the dice.
+The dice only come out when there is an interesting challenge with meaningful consequences, especially if it's related to one of the characters weaknesses. 
