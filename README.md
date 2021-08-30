@@ -145,7 +145,7 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | Mundane    | Auto-Success, unless it serves the narrative to roll |
 | Easy       | Success on a sum of 7 or higher                      |
 | Moderate   | Success on a sum of 9 or higher                      |
-| Hard       | Success on a sum of 11 or higher                     |
+| Hard       | Success on a sum of 10 or higher                     |
 | Impossible | Auto-Failure unless Critical or Legendary            |
 
 
@@ -166,7 +166,7 @@ New Characters have the following array to assign to their aptitudes
 - 1 Poor (-1)
 - 1 Awful (-2)
 
-Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Debt they owe, & 1 debt owed to them.
+Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Major Debt they owe, & 1 Minor Debt owed to them.
 
 Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items. You may choose these items yourself or roll for them on the tables below
 
