@@ -140,13 +140,13 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 
 ## Actions (a.k.a Doing Things)
 ### Table 3-2: Difficulty
-| Difficulty | Success Condition                                    |
-|------------|------------------------------------------------------|
-| Mundane    | Auto-Success, unless it serves the narrative to roll |
-| Easy       | Success on a sum of 7 or higher                      |
-| Moderate   | Success on a sum of 9 or higher                      |
-| Hard       | Success on a sum of 10 or higher                     |
-| Impossible | Auto-Failure unless Critical or Legendary            |
+| Difficulty | Success Condition                | Odds  |
+|------------|----------------------------------|-------|
+| Mundane    | Auto-Success, unless interesting | 21/36 |
+| Easy       | Success on a sum of 7 or higher  | 21/36 |
+| Moderate   | Success on a sum of 9 or higher  | 10/36 |
+| Hard       | Success on a sum of 10 or higher | 3/36  |
+| Impossible | Auto-Failure, unless Critical    | 1/36  |
 
 
 Characters in your games are going to do things.
