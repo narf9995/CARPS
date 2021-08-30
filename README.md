@@ -5,9 +5,9 @@ Placeholder Text.
 
 ## Introduction
 ### Problem:
-In my opinion, many popular role-playing systems have a major problem; which is their level of accessibility. Systems frequently require many specialized dice & books, on-boarding of system/setting specific rules for both gamemaster & player, and require a level of familiarity for adequate player risk assessment. This creates a "black box" situation where the gamemaster understands the inner working of the game and the associated risks to actions, but the players are blind as to how their actions are actually orchestrated mechanically & the mathematical odds of their success.
+In my opinion, many popular role-playing systems have a major problem; which is their level of accessibility. Systems frequently require many specialized dice & books, on-boarding of system/setting specific rules for both gamemaster & player, & require a level of familiarity for adequate player risk assessment. This creates a "black box" situation where the gamemaster understands the inner working of the game & the associated risks to actions, but the players are blind as to how their actions are actually orchestrated mechanically & the mathematical odds of their success.
 
-New players, particularly those unfamiliar with tabletop role-playing games (TTRPGs) or computer RPGs (JRPG, MMORPG, etc.), tend to have great ideas visually/narratively, but struggle to implement them within the mechanics of the system. This may be frustrating for all parties involved as it can be to the detriment of the players own fun, the fun of the party, and even take away valuable playing time while reviewing rules.
+New players, particularly those unfamiliar with tabletop role-playing games (TTRPGs) or computer RPGs (JRPG, MMORPG, etc.), tend to have great ideas visually/narratively, but struggle to implement them within the mechanics of the system. This may be frustrating for all parties involved as it can be to the detriment of the players own fun, the fun of the party, & even take away valuable playing time while reviewing rules.
 
 The situation below may be familiar to you:
 
@@ -23,7 +23,7 @@ The situation below may be familiar to you:
     GM: Give me a reflex save Paladin.
     New Mage: Wait... what?
 
-It's easy to place the blame on the players for not learning the system you as a gamemaster had to learn, but keep in mind that people have different skill sets and learning methods. What makes sense to you might not make sense to them and vice versa. If this is a recurring issue across systems, players, & gamemasters, as I have observed; then there must be some core issue regarding accessibility in RPGs as a emerging form of **transmedia** storytelling.
+It's easy to place the blame on the players for not learning the system you as a gamemaster had to learn, but keep in mind that people have different skill sets & learning methods. What makes sense to you might not make sense to them & vice versa. If this is a recurring issue across systems, players, & gamemasters, as I have observed; then there must be some core issue regarding accessibility in RPGs as a emerging form of **transmedia** storytelling.
 
 **Transmedia is defined as:** a narrative that extends beyond multiple media forms (often digital) that also plays to the strength those forms; that may or may not be interactive.
 
@@ -35,16 +35,16 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 - **Concepts**
   - **Characters**: the importance of narrative.
   - **Convenience**: the importance of getting the right content to the right people at the right time
-  - **Community**: the importance of connecting fans and rewarding them.
+  - **Community**: the importance of connecting fans & rewarding them.
 
 
 - **Intersections**
   - **Characters** + **Convenience** = **Personalization**
     - The personalization of the story experience for each person based on their relationship to the world
   - **Convenience** + **Community** = **Inter-Community Interaction**
-    - The continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content and refer friends to the world
+    - The continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content & refer friends to the world
   - **Community** + **Characters** = **Community Interaction**
-    - The relationship between the community and the world. Creators should provide opportunities to strengthen the relationship through procedures and technology to allow fan contributions, character interactions and such like.
+    - The relationship between the community & the world. Creators should provide opportunities to strengthen the relationship through procedures & technology to allow fan contributions, character interactions & such like.
 
 
 ### Pro/Con List of Existing Solutions:
@@ -127,29 +127,42 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 
 
-### Table 3-1: 
-| Rank | Level        |
-|------|--------------|
-| -2   | Awful        |
-| -1   | Poor         |
-|  0   | Average      |
-| +1   | Skilled      |
-| +2   | Professional |
-| +3   | Legendary    |
+### Table 3-1: Aptitude Scores
+| Score | Level        | Effect                                    |
+|-------|--------------|-------------------------------------------|
+| -2    | Awful        | Auto-Failure on most associated tasks     |
+| -1    | Poor         | Roll on most associated tasks             |
+|  0    | Average      | No Effect: Roll unless superfluous        |
+| +1    | Skilled      | Auto-Success on Easy associated tasks     |
+| +2    | Professional | Auto-Success on Moderate associated tasks |
+| +3    | Legendary    | Auto-Success on Hard associated tasks     |
 
+## Actions (a.k.a Doing Things)
 ### Table 3-2: Difficulty
-| Difficulty | Effect                                  |
-|------------|-----------------------------------------|
-| Mundane    | No Roll unless it serves the narrative. |
-| Easy       |  |
-| Moderate   |  |
-| Hard       |  |
-| Impossible | Auto-Fail unless Critical or Legendary. |
+| Difficulty | Success Condition                                    |
+|------------|------------------------------------------------------|
+| Mundane    | Auto-Success, unless it serves the narrative to roll |
+| Easy       | Success on a sum of 7 or higher                      |
+| Moderate   | Success on a sum of 9 or higher                      |
+| Hard       | Success on a sum of 11 or higher                     |
+| Impossible | Auto-Failure unless Critical or Legendary            |
 
 
 Characters in your games are going to do things.
-For most things they do, there’s no need for rules.
+For most things they do, there’s no need for dice & rules.
 If the average person could do it on auto-pilot, so can your character.
-Characters can stand, walk, talk, go shopping and otherwise do normal things without needing to roll dice.
+Characters can stand, walk, talk, go shopping & otherwise do normal things without needing to roll dice.
 They can even take mundane actions relevant to their aptitudes, like driving to work, without worrying about the dice.
-The dice only come out when there is an interesting challenge with meaningful consequences, especially if it's related to one of the characters weaknesses. 
+The dice only come out when there is an interesting challenge with meaningful consequences, especially if it's related to one of the characters weaknesses.
+
+
+## Characters
+
+New Characters have the following array to assign to their aptitudes
+- 1 Professional (+2)
+- 2 Skilled (+1)
+- 2 Average (0)
+- 1 Poor (-1)
+- 1 Awful (-2)
+
+Characters start the game with one Major Significant Item and one Minor Significant item. You may choose these items yourself or roll for them on the tables below
