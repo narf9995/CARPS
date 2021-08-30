@@ -123,7 +123,8 @@ It historically referred to the News/TV media paradigm, but in the digital era i
   - Represents study of magic, alchemy, extra-sensory perception, astrology, spiritualism, religion, and/or divination depending on your setting.
 
 
- Aptitudes are in a range of 6 from -2 to +3
+Aptitudes are in a range of 6 from -2 to +3
+
 New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 
 
@@ -165,4 +166,45 @@ New Characters have the following array to assign to their aptitudes
 - 1 Poor (-1)
 - 1 Awful (-2)
 
-Characters start the game with one Major Significant Item and one Minor Significant item. You may choose these items yourself or roll for them on the tables below
+Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Debt they owe, & 1 debt owed to them.
+
+Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items. You may choose these items yourself or roll for them on the tables below
+
+### 4-1: Significant Items, Major
+
+First roll to select the column & then again select the row.
+
+| Roll | Column | 1 | 2 | 3 | 4 | 5 | 6 |
+|------|--------|---|---|---|---|---|---|
+| 1    | 1      |   |   |   |   |   |   |
+| 2    | 2      |   |   |   |   |   |   |
+| 3    | 3      |   |   |   |   |   |   |
+| 4    | 4      |   |   |   |   |   |   |
+| 5    | 5      |   |   |   |   |   |   |
+| 6    | 6      |   |   |   |   |   |   |
+
+### 4-2: Significant Items, Minor
+
+First roll to select the column & then again select the row.
+
+| Roll | Column | 1 | 2 | 3 | 4 | 5 | 6 |
+|------|--------|---|---|---|---|---|---|
+| 1    | 1      |   |   |   |   |   |   |
+| 2    | 2      |   |   |   |   |   |   |
+| 3    | 3      |   |   |   |   |   |   |
+| 4    | 4      |   |   |   |   |   |   |
+| 5    | 5      |   |   |   |   |   |   |
+| 6    | 6      |   |   |   |   |   |   |
+
+### 4-3: Mundane Items
+
+First roll to select the column & then again select the row.
+
+| Roll | Column | 1 | 2 | 3 | 4 | 5 | 6 |
+|------|--------|---|---|---|---|---|---|
+| 1    | 1      |   |   |   |   |   |   |
+| 2    | 2      |   |   |   |   |   |   |
+| 3    | 3      |   |   |   |   |   |   |
+| 4    | 4      |   |   |   |   |   |   |
+| 5    | 5      |   |   |   |   |   |   |
+| 6    | 6      |   |   |   |   |   |   |
