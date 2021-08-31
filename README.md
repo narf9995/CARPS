@@ -175,6 +175,13 @@ When you need (or want) to roll dice, this is the procedure:
 
 ## Characters
 
+There are 3 kinds of characters
+- Player Characters (PCs) 
+- Named Non-Player Characters (NPCs) 
+- Non-Player Characters (NPCs)
+
+The first two are defined as Named Characters. Nameless NPCs include generic background characters, groups, mobs, and other entities that don't require names.
+
 ### Aptitudes
 
 New Player Characters (PCs) & Named Non-Player Characters (NPC) have the following array of scores to assign to their 7 aptitudes. Unnamed characters, groups, & mobs are handled differently.
@@ -186,8 +193,7 @@ New Player Characters (PCs) & Named Non-Player Characters (NPC) have the followi
 
 ### Relationships
 
-Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Debt they owe, & 1 debt owed to them.
-
+Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Major Debt they owe, & 1 Minor Debt owed to them. You may choose these items yourself or roll for them on the tables below
 ### Items
 
 Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items. You may choose these items yourself or roll for them on the tables below
