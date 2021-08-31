@@ -187,10 +187,10 @@ When you need (or want) to roll dice, this is the procedure:
 Health is measured in **Flesh** & **Grit**.
 
 
-**Flesh**: The physical constraints of your body, measured by just Physical,
+**Flesh**: The physical constraints of your body, measured by Physical.
 
 
-**Grit**: Your growing ability to avoid and respond to damage, measured by Agility + Knowledge. 
+**Grit**: Your ability to avoid and respond to damage, measured by Agility + Knowledge. 
 
 
 Stress
