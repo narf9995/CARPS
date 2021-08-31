@@ -1,5 +1,9 @@
 # Craps Accesible Role-Play System (CARPS)
 
+# Premise: 
+Could a narrative-focused RPG be created using craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
+
+
 ## Thesis:
 Placeholder Text.
 
