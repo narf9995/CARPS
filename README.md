@@ -3,6 +3,7 @@
 ## Thesis:
 Placeholder Text.
 
+
 ## Introduction
 ### Problem:
 In my opinion, many popular role-playing systems have a major problem; which is their level of accessibility. Systems frequently require many specialized dice & books, on-boarding of system/setting specific rules for both gamemaster & player, & require a level of familiarity for adequate player risk assessment. This creates a "black box" situation where the gamemaster understands the inner working of the game & the associated risks to actions, but the players are blind as to how their actions are actually orchestrated mechanically & the mathematical odds of their success.
@@ -63,6 +64,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 | 5 |       Easy Six      | Natural (Seven Out) |      Easy Eight     |      Nine (Nina)    |       Hard Ten      |     Yo (Yo-leven)   |
 | 6 | Natural (Seven Out) |      Easy Eight     |     Nine (Nina)     |       Easy Ten      |    Yo (Yo-leven)    |  Boxcars (Midnight) |
 
+
 ### Table 1-2: Revised Craps Names
 |   |         1        |      2     |      3     |      4     |      5      |         6         |
 |:-:|:----------------:|:----------:|:----------:|:----------:|:-----------:|:-----------------:|
@@ -72,6 +74,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 | 4 |       Five       |  Easy Six  |    Seven   | Hard Eight |     Nine    |      Easy Ten     |
 | 5 |     Easy Six     |    Seven   | Easy Eight |    Nine    |   Hard Ten  |    Yo (Eleven)    |
 | 6 |       Seven      | Easy Eight |    Nine    |  Easy Ten  | Yo (Eleven) | Midnight (Twelve) |
+
 
 ### Table 2-1: Craps Odds
 | Dice Total | Odds |         Combinations         | # of Combos |  Odds vs. 7 |
@@ -88,6 +91,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 | 11         | 2/36 | 5+6, 6+5                     |      2      | 6/2 = 2/1   |
 | 12         | 1/36 | 6+6                          |      1      | 6/1         |
 
+
 ### Table 2-2: Additional Odds
 
 | Aspect             | Odds        | Effect               |
@@ -97,6 +101,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 | Sum: Odd           | 18/36 = 1/2 | Minor Negative Bonus |
 | Sum: Even          | 18/36 = 1/2 | Minor Positive Bonus |
 
+
 ### Table 2-3: Critical
 
 | Roll            | Odds | Effect                           |
@@ -105,6 +110,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 | Identical: 4,6  | 1/36 | Negative Critical (Major, Minor) |
 | Identical: 8,10 | 1/36 | Positive Critical (Minor, Major) |
 | Identical: 12   | 1/36 | Positive Critical (Auto-Win)     |
+
 
 ### Aptitudes
 - Physical (Phy)
@@ -138,6 +144,7 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | +2    | Professional | Auto-Success on Moderate associated tasks |
 | +3    | Legendary    | Auto-Success on Hard associated tasks     |
 
+
 ## Actions (a.k.a Doing Things)
 ### Table 3-2: Difficulty
 | Difficulty | Success Condition                                    |
@@ -149,7 +156,9 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | Impossible | Auto-Failure unless Critical or Legendary            |
 
 
-Characters in your games are going to do things.
+Characters in your games are going to do stuff, things, & stuff with things. In this system we give stuff & things the name Tasks. Tasks may entail a single action or many actions together.
+
+
 For most things they do, there’s no need for dice & rules.
 If the average person could do it on auto-pilot, so can your character.
 Characters can stand, walk, talk, go shopping & otherwise do normal things without needing to roll dice.
@@ -157,16 +166,29 @@ They can even take mundane actions relevant to their aptitudes, like driving to 
 The dice only come out when there is an interesting challenge with meaningful consequences, especially if it's related to one of the characters weaknesses.
 
 
+When you need (or want) to roll dice, this is the procedure:
+
+1. Determine Difficulty of Task & reassess after reviewing odds.
+2. Roll 2 six-sided dice (2d6) on a flat surface or in a clear cup. *A dice app is also useful in many scenarios, but may not be truly random if you care about such things.*
+3. Interpret results.
+
+
 ## Characters
 
-New Characters have the following array to assign to their aptitudes
+### Aptitudes
+
+New Player Characters (PCs) & Named Non-Player Characters (NPC) have the following array of scores to assign to their 7 aptitudes. Unnamed characters, groups, & mobs are handled differently.
 - 1 Professional (+2)
 - 2 Skilled (+1)
 - 2 Average (0)
 - 1 Poor (-1)
 - 1 Awful (-2)
 
+### Relationships
+
 Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Debt they owe, & 1 debt owed to them.
+
+### Items
 
 Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items. You may choose these items yourself or roll for them on the tables below
 
