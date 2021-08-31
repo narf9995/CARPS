@@ -179,6 +179,15 @@ When you need (or want) to roll dice, this is the procedure:
 3. Interpret results.
 
 
+## Time
+
+
+
+## Health & Stress
+Health is measured in **Flesh** & **Grit**.
+
+Stress
+
 ## Characters
 
 There are 3 kinds of characters
@@ -186,7 +195,8 @@ There are 3 kinds of characters
 - Named Non-Player Characters (NPCs)
 - Nameless Non-Player Characters (NPCs)
 
-The first two are defined as Named Characters. Nameless Characters include generic background characters, groups, mobs, and other entities that don't require names.
+The first two are defined as Named Characters.
+Nameless Characters include generic background characters, groups, mobs, and other entities that don't require names.
 
 ### Aptitudes
 
@@ -200,7 +210,7 @@ Named Characters have the following array of scores to assign to their 7 aptitud
 ### Relationships
 
 Named Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Major Debt they owe, & 1 Minor Debt owed to them.
-You may choose these items yourself or roll for them on the tables below.
+You may choose these options yourself or roll for them on the tables below.
 
 
 ### Items
