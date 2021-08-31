@@ -147,13 +147,13 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 
 ## Tasks & Actions (a.k.a Doing Things)
 ### Table 3-2: Difficulty
-| Difficulty | Success Condition                                    |
-|------------|------------------------------------------------------|
-| Mundane    | Auto-Success, unless it serves the narrative to roll |
-| Easy       | Success on a sum of 7 or higher                      |
-| Moderate   | Success on a sum of 9 or higher                      |
-| Hard       | Success on a sum of 11 or higher                     |
-| Impossible | Auto-Failure unless Critical or Legendary            |
+| Difficulty | Success Condition                 | Odds  |
+|------------|-----------------------------------|-------|
+| Mundane    | Auto-Success (unless interesting) | N/A   |
+| Easy       | Success on a sum of 7 or higher   | 21/36 |
+| Moderate   | Success on a sum of 9 or higher   | 10/36 |
+| Hard       | Success on a sum of 10 or higher  | 3/36  |
+| Impossible | Auto-Failure (unless Critical)    | 1/36  |
 
 
 Characters in your games are going to do stuff, things, & stuff with things.
@@ -190,7 +190,7 @@ Health is measured in **Flesh** & **Grit**.
 **Flesh**: The physical constraints of your body, measured by Physical.
 
 
-**Grit**: Your ability to avoid and respond to damage, measured by Agility + Knowledge. 
+**Grit**: Your ability to avoid and respond to damage, measured by Agility + Knowledge.
 
 
 Stress
@@ -198,7 +198,7 @@ Stress
 ## Characters
 
 There are 3 kinds of characters
-- Player Characters (PCs) 
+- Player Characters (PCs)
 - Named Non-Player Characters (NPCs)
 - Nameless Non-Player Characters (NPCs)
 
@@ -207,7 +207,7 @@ Nameless Characters include generic background characters, groups, mobs, and oth
 
 ### Aptitudes
 
-Named Characters have the following array of scores to assign to their 7 aptitudes. Unnamed characters are handled diferently.
+Named Characters have the following array of scores to assign to their 7 aptitudes. Unnamed characters are handled differently.
 - 1 Professional (+2)
 - 2 Skilled (+1)
 - 2 Average (0)
