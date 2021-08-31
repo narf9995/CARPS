@@ -145,7 +145,7 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | +3    | Legendary    | Auto-Success on Hard associated tasks     |
 
 
-## Actions (a.k.a Doing Things)
+## Tasks & Actions (a.k.a Doing Things)
 ### Table 3-2: Difficulty
 | Difficulty | Success Condition                                    |
 |------------|------------------------------------------------------|
@@ -156,7 +156,7 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | Impossible | Auto-Failure unless Critical or Legendary            |
 
 
-Characters in your games are going to do stuff, things, & stuff with things. In this system we give stuff & things the name Tasks. Tasks may entail a single action or many actions together.
+Characters in your games are going to do stuff, things, & stuff with things. In this system we give stuff & things the name Tasks. Tasks may entail a single Action or many Actions together. Actions take Time. Simple Tasks take less Time, while complex Tasks take more Time.
 
 
 For most things they do, there’s no need for dice & rules.
