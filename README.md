@@ -156,7 +156,11 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | Impossible | Auto-Failure unless Critical or Legendary            |
 
 
-Characters in your games are going to do stuff, things, & stuff with things. In this system we give stuff & things the name Tasks. Tasks may entail a single Action or many Actions together. Actions take Time. Simple Tasks take less Time, while complex Tasks take more Time.
+Characters in your games are going to do stuff, things, & stuff with things.
+In this system we give stuff & things the name **Tasks**.
+**Tasks** may entail a single **Action** or many **Actions** together.
+Actions take **Time**. Simple **Tasks** take less **Time**, while complex **Tasks** take more **Time**.
+
 
 
 For most things they do, there’s no need for dice & rules.
@@ -184,7 +188,7 @@ The first two are defined as Named Characters. Nameless Characters include gener
 
 ### Aptitudes
 
-Named Characters have the following array of scores to assign to their 7 aptitudes. Unnamed characters are handled diferently
+Named Characters have the following array of scores to assign to their 7 aptitudes. Unnamed characters are handled diferently.
 - 1 Professional (+2)
 - 2 Skilled (+1)
 - 2 Average (0)
@@ -193,12 +197,14 @@ Named Characters have the following array of scores to assign to their 7 aptitud
 
 ### Relationships
 
-Named Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Major Debt they owe, & 1 Minor Debt owed to them. You may choose these items yourself or roll for them on the tables below
+Named Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Major Debt they owe, & 1 Minor Debt owed to them.
+You may choose these items yourself or roll for them on the tables below.
 
 
 ### Items
 
-Named Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items. You may choose these items yourself or roll for them on the tables below
+Named Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items.
+You may choose these items yourself or roll for them on the tables below.
 
 ### 4-1: Significant Items, Major
 
