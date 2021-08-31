@@ -188,6 +188,8 @@ Health is measured in **Flesh** & **Grit**.
 
 
 **Flesh**: The physical constraints of your body, measured by just Physical,
+
+
 **Grit**: Your growing ability to avoid and respond to damage, measured by Agility + Knowledge. 
 
 
