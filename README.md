@@ -165,7 +165,7 @@ In this system we give stuff & things the name **Tasks**.
 
 
 **Tasks** may entail a single **Action** or many **Actions** together.
-Actions take **Time**. Simple **Tasks** take less **Time**, while complex **Tasks** take more **Time**.
+**Actions** take **Time**. Simple **Tasks** take less **Time**, while complex **Tasks** take more **Time**.
 
 
 
@@ -182,12 +182,16 @@ When you need (or want) to roll dice, this is the procedure:
 2. Roll 2 six-sided dice (2d6) on a flat surface or in a clear cup. *A dice app is also useful in many scenarios, but may not be truly random if you care about such things.*
 3. Interpret results.
 
+## Episodes & Scenes
+**Episodes** are comprised of **Scenes**. **Episodes** are usually the length of the entire duration of the play session & can either be self-contained stories arcs that conclude at the end of the **Episode**, a segment of a larger story arc with cliff-hangers in-between, or an unabridged long-form story arc that suspends/resumes like nothing happened. Ultimately the decision is up to the **Table** & has no effect as to the actual gameplay.
 
-## Time
+### Time
 
 
 
-## Health & Stress
+
+### Health
+
 Health is measured in **Flesh** & **Grit**.
 
 
@@ -197,7 +201,11 @@ Health is measured in **Flesh** & **Grit**.
 **Grit**: Your ability to avoid and respond to damage, measured by Agility + Knowledge.
 
 
+### Stress
+
 Stress
+
+
 
 ## Characters
 
@@ -217,6 +225,8 @@ Named Characters have the following array of scores to assign to their 7 aptitud
 - 2 Average (0)
 - 1 Poor (-1)
 - 1 Awful (-2)
+
+
 
 ### Relationships
 
