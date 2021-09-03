@@ -18,5 +18,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
     - The continued “personalization” but in a broader sense as applied to audience segments. For example an audience team collaborates to unlock content that only they can see. Also at this intersection is the ability to share content & refer friends to the world
   - **Community** + **Characters** = **Community Interaction**
     - The relationship between the community & the world. Creators should provide opportunities to strengthen the relationship through procedures & technology to allow fan contributions, character interactions & such like.
+
+
 [Source](
 https://web.archive.org/web/20210903232244/https://blog.conducttr.com/the-three-cs-of-transmedia-storytelling) - *All credits go to original author. Content cloned for ease of accesibility & archival purposes only. Will remove if requested.*
