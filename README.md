@@ -3,6 +3,23 @@
 ## Premise:
 Could a narrative-focused RPG be created using craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
 
+# Core Concepts
+  - setting agnostic (generic rules)
+  - 2d6 only, no increase w/ level
+  - based on craps odds/nicknames
+  - limit unnecessary rolls
+  - clear, yet abstract rules
+  - minimal, yet comprehensive rules
+  - SRD can fit on 1 sheet of A4 paper
+  - storytelling/narrative focus
+  - easy for new players
+  - Ages 5 and up with an adult
+  - players allowed to affect narrative
+  - connect players with world
+  - open, modular, easy to homebrew
+  - online, cross-platform, printable
+  - accessible for disabilities: WCAG compliant, digital & physical copies, screenreader compatible
+
 
 ## Thesis:
 Placeholder Text
