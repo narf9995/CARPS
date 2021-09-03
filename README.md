@@ -14,7 +14,7 @@ In my opinion, many popular role-playing systems have a major problem; which is 
 
 New players, particularly those unfamiliar with tabletop role-playing games (TTRPGs) or computer RPGs (JRPG, MMORPG, etc.), tend to have great ideas visually/narratively, but struggle to implement them within the mechanics of the system. This may be frustrating for all parties involved as it can be to the detriment of the players own fun, the fun of the party, & even take away valuable playing time while reviewing rules.
 
-The situation below may be familiar to you:
+The following situation may be familiar to you:
 
     GM: Your turn Mage.
     New Mage: I cast a spell!
