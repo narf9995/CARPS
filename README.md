@@ -2,7 +2,7 @@
 [Skip to Rules](https://github.com/narf9995/CARPS/blob/main/README.md#proposed-carps-core-rules)
 
 
-## TOC
+## Table of Contents
 - [Premise:](#premise-)
 - [Core Concepts](#core-concepts)
 - [Introduction](#introduction)
