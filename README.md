@@ -23,7 +23,7 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - ages 5 and up with an adult 
   - open, modular, easy to homebrew
   - online, cross-platform, cheap to print
-  - small & open file formats
+  - small & non-proprietary file formats
   - treated like an open-source code project
 
 
