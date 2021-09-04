@@ -25,11 +25,6 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - online, cross-platform, cheap to print
 
 
-
-## Thesis:
-Placeholder Text
-
-
 ## Introduction
 ### Problem:
 In my opinion, many popular role-playing systems have a major problem; which is their level of accessibility. Systems frequently require many specialized dice & books, on-boarding of system/setting specific rules for both gamemaster & player, & require a level of familiarity for adequate player risk assessment. This creates a "black box" situation where the gamemaster understands the inner working of the game & the associated risks to actions, but the players are blind as to how their actions are actually orchestrated mechanically & the mathematical odds of their success.
@@ -54,8 +49,12 @@ It's easy to place the blame on the players for not learning the system you as a
 
 
 ### Pro/Con List of Existing Solutions:
-
 - Narrative based systems such as Powered by the Apocalypse
+
+
+## Thesis:
+Placeholder Text
+
 
 ## Proposed CARPS Core Rules
 
