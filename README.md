@@ -3,14 +3,14 @@
 
 
 ## Table of Contents
-- [Premise:](#premise-)
+- [Premise](#premise-)
 - [Core Concepts](#core-concepts)
 - [Introduction](#introduction)
-  * [Problem:](#problem-)
+  * [Problem](#problem-)
     + [For Gamemasters](#for-gamemasters)
     + [For Players](#for-players)
   * [Pro/Con List of Existing Solutions:](#pro-con-list-of-existing-solutions-)
-- [Thesis:](#thesis-)
+- [Thesis](#thesis-)
 - [Proposed CARPS Core Rules](#proposed-carps-core-rules)
   * [Tables](#tables)
     + [Table 1-1: Original Craps Names](#table-1-1--original-craps-names)
@@ -37,7 +37,7 @@
 
 # Contents
 
-## Premise:
+## Premise
 With accessibility in mind; could a narrative-focused RPG be created using the established odds of street craps (results of 2d6 summed) & mixed/complex interpretation of those results, while staying simple to read, understand, & run?
 
 
@@ -65,7 +65,7 @@ With accessibility in mind; could a narrative-focused RPG be created using the e
 
 
 ## Introduction
-### Problem:
+### Problem
 In my opinion, many popular role-playing systems have a major problem; which is their level of accessibility. Systems frequently require many specialized dice & books, on-boarding of system/setting specific rules for both gamemaster & player, & require a level of familiarity for adequate player risk assessment. This creates a "black box" situation where the gamemaster understands the inner working of the game & the associated risks to actions, but the players are blind as to how their actions are actually orchestrated mechanically & the mathematical odds of their success.
 
 New players, particularly those unfamiliar with tabletop role-playing games (TTRPGs) or computer RPGs (JRPG, MMORPG, etc.), tend to have great ideas visually/narratively, but struggle to implement them within the mechanics of the system. This may be frustrating for all parties involved as it can be to the detriment of the players own fun, the fun of the party, & even take away valuable playing time while reviewing rules.
@@ -97,7 +97,7 @@ Placeholder Text.
 - FATE
 
 
-## Thesis:
+## Thesis
 Placeholder Text
 
 
