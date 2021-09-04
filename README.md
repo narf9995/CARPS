@@ -3,9 +3,9 @@
 ## Premise:
 Could a narrative-focused RPG be created using craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
 
-# Core Concepts
+# Core Concepts / Goals
   - setting agnostic (generic rules)
-  - 2d6 only, no increase w/ level
+  - 2d6 only, no dice added
   - based on craps odds/nicknames
   - limit unnecessary rolls
   - clear, yet abstract rules
