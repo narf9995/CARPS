@@ -322,3 +322,5 @@ First roll to select the column & then again select the row.
 | 4    | 4      |   |   |   |   |   |   |
 | 5    | 5      |   |   |   |   |   |   |
 | 6    | 6      |   |   |   |   |   |   |
+
+## Glossary
