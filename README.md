@@ -9,7 +9,7 @@ With accessibility in mind; could a narrative-focused RPG be created using the e
 # Core Concepts
   - accessibility focus: WCAG compliant, screenreader compatible, limited images, & limited math
   - simple concepts for new players, kids, elderly, & cognitvely impared persons
-  - markdown & YAML for easy formating/localization
+  - markdown & YAML for easy formating & localization
   - generic, setting agnostic rules
   - limited resources required to play
   - require 2d6 only *(based on Street Craps)*
