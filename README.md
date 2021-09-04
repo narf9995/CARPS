@@ -1,4 +1,6 @@
 # Craps Accessible Role-Play System (CARPS)
+TL;DR: Here are the [Rules](https://github.com/narf9995/CARPS/blob/main/README.md#proposed-carps-core-rules). Hope you enjoy!
+
 
 ## Premise:
 Could a narrative-focused RPG be created using craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
