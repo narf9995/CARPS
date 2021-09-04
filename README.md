@@ -35,6 +35,8 @@
       - [4-3: Mundane Items](#4-3--mundane-items)
 
 
+# Contents
+
 ## Premise:
 With accessibility in mind; could a narrative-focused RPG be created using the established odds of street craps (results of 2d6 summed) & mixed/complex interpretation of those results, while staying simple to read, understand, & run?
 
