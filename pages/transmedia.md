@@ -4,7 +4,7 @@ It historically referred to the News/TV media paradigm, but in the digital era i
 
 **"3 C's" of Transmedia**
 
-![Transmedia Venn Diagram](/images/the-three-Cs-of-transmedia-storytelling.jpg)
+![Transmedia Venn Diagram, Conetents Reproduced Below](/images/the-three-Cs-of-transmedia-storytelling.jpg)
 - **Concepts**
   - **Characters**: the importance of narrative.
   - **Convenience**: the importance of getting the right content to the right people at the right time
