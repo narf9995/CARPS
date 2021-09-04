@@ -20,7 +20,7 @@ With accessibility in mind; could a narrative-focused RPG be created using the e
   - minimal, yet comprehensive rules
   - storytelling/narrative focus
   - players can meaningfully (& mechanically) affect narrative
-  - connect players with world
+  - connect players with world via mechanics
   - ages 5 and up with an adult 
   - open, modular, easy to homebrew
   - online, cross-platform, cheap to print
