@@ -5,24 +5,22 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
 
 
 # Core Concepts / Goals
-  - accessibility focus:
-
-
-    WCAG compliant, screenreader compatible, limited images, limited math
-  - gh-markdown & YAML for easy formating & localization
+  - accessibility focus: WCAG compliant, screenreader compatible, limited images, & limited math
+  - simple concepts for new players, kids, elderly, & cognitvely impared
+  - gh-markdown & YAML for easy formating/localization
   - setting agnostic (generic rules)
+  - limited resources required to play
   - require 2d6 only *(based on Street Craps)*
   - limit unnecessary rolls
   - SRD can fit on 1 sheet of A4 paper
   - clear, yet narratively abstract rules
   - minimal, yet comprehensive rules
   - storytelling/narrative focus
-  - easy for new players & those 
-  - ages 5 and up with an adult
   - players allowed to affect narrative
   - connect players with world
+  - ages 5 and up with an adult 
   - open, modular, easy to homebrew
-  - online, cross-platform, printable
+  - online, cross-platform, cheap to print
 
 
 
