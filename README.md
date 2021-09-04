@@ -6,27 +6,27 @@
 With accessibility in mind; could a narrative-focused RPG be created using the established odds of street craps (results of 2d6 summed) & mixed/complex interpretation of those results, while staying simple to read, understand, & run?
 
 
-# Core Concepts
-  - accessibility focus: WCAG compliant, screenreader compatible, limited images, & limited math
-  - simple concepts for new players, kids, elderly, & cognitvely impared persons
-  - markdown & YAML for easy formating & localization
-  - generic, setting agnostic rules
-  - limited resources required to play
-  - require 2d6 only *(based on Street Craps)*
-  - limit unnecessary dice rolls
-  - dice can be cleary & quickly read
-  - SRD can fit on 1 sheet of A4 paper
-  - clear, yet narratively abstract rules
-  - minimal, yet comprehensive rules
-  - storytelling/narrative focus
-  - players can meaningfully (& mechanically) affect narrative
-  - connect players with world via mechanics
-  - ages 5 and up with an adult 
-  - open, modular, easy to homebrew
-  - online, cross-platform, cheap to print
-  - small & non-proprietary file formats
-  - treated like an open-source code project
-  - *Unintended Bonus: 1-digit addition practice disguised as game*
+## Core Concepts
+- accessibility focus: WCAG compliant, screenreader compatible, limited images, & limited math
+- simple concepts for new players, kids, elderly, & cognitvely impared persons
+- markdown & YAML for easy formating & localization
+- generic, setting agnostic rules
+- limited resources required to play
+- require 2d6 only *(based on Street Craps)*
+- limit unnecessary dice rolls
+- dice can be cleary & quickly read
+- SRD can fit on 1 sheet of A4 paper
+- clear, yet narratively abstract rules
+- minimal, yet comprehensive rules
+- storytelling/narrative focus
+- players can meaningfully (& mechanically) affect narrative
+- connect players with world via mechanics
+- ages 5 and up with an adult 
+- open, modular, easy to homebrew
+- online, cross-platform, cheap to print
+- small & non-proprietary file formats
+- treated like an open-source code project
+- *Unintended Bonus: 1-digit addition practice disguised as game*
 
 
 ## Introduction
