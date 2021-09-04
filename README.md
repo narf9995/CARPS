@@ -6,7 +6,7 @@
 With accessibility in mind; could a narrative-focused RPG be created using the established odds of street craps (results of 2d6 summed) & mixed/complex interpretation of those results, while staying simple to read, understand, & run?
 
 
-# Core Concepts / Goals
+# Core Concepts
   - accessibility focus: WCAG compliant, screenreader compatible, limited images, & limited math
   - simple concepts for new players, kids, elderly, & cognitvely impared persons
   - markdown & YAML for easy formating/localization
