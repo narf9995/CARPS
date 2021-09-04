@@ -7,7 +7,7 @@
 - [Core Concepts](#core-concepts)
 - [Introduction](#introduction)
   * [Problem](#problem-)
-    + [For Gamemasters](#for-gamemasters)
+    + [For Game Masters](#for-gamemasters)
     + [For Players](#for-players)
   * [Pro/Con List of Existing Solutions:](#pro-con-list-of-existing-solutions-)
 - [Thesis](#thesis-)
