@@ -26,7 +26,7 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - online, cross-platform, cheap to print
   - small & non-proprietary file formats
   - treated like an open-source code project
-  - *Unintended Bonus: 1-digit addition practice*
+  - *Unintended Bonus: 1-digit addition practice* disguised as game
 
 
 ## Introduction
