@@ -6,6 +6,8 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
 
 # Core Concepts / Goals
   - accessibility focus:
+
+
     WCAG compliant, screenreader compatible, limited images, limited math
   - gh-markdown & YAML for easy formating & localization
   - setting agnostic (generic rules)
