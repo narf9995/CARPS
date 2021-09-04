@@ -49,7 +49,12 @@ The following situation may be familiar to you:
     GM: Give me a reflex save Paladin.
     New Mage: Wait... what?
 
+#### For Gamemasters
 It's easy to place the blame on the players for not learning the system you as a gamemaster had to learn, but keep in mind that people have different skill sets & learning methods. What makes sense to you might not make sense to them & vice versa. If this is a recurring issue across systems, players, & gamemasters, as I have observed; then there must be some core issue regarding accessibility in RPGs as a emerging form of [transmedia](https://github.com/narf9995/CARPS/blob/main/pages/transmedia.md) storytelling.
+
+
+#### For Players
+Placeholder Text.
 
 
 ### Pro/Con List of Existing Solutions:
