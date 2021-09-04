@@ -1,5 +1,5 @@
 # Craps-based Accessible Role Playing System (CARPS)
-[Skip to Rules](https://github.com/narf9995/CARPS/blob/main/README.md#proposed-carps-core-rules).
+[Skip to Rules](https://github.com/narf9995/CARPS/blob/main/README.md#proposed-carps-core-rules)
 
 
 ## Premise:
