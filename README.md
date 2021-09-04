@@ -55,7 +55,7 @@ It's easy to place the blame on the players for not learning the system you as a
 
 - Narrative based systems such as Powered by the Apocalypse
 
-## Proposed CARPS Rules
+## Proposed CARPS Core Rules
 
 ### Table 1-1: Original Craps Names
 |   |          1          |          2          |          3          |          4          |          5          |          6          |
