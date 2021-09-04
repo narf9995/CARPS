@@ -67,8 +67,8 @@ Placeholder Text
 
 
 ## Proposed CARPS Core Rules
-
-### Table 1-1: Original Craps Names
+### Tables
+#### Table 1-1: Original Craps Names
 |   |          1          |          2          |          3          |          4          |          5          |          6          |
 |:-:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 | 1 |      Snake Eyes     |      Ace Deuce      |      Easy Four      |  Five (Fever Five)  |       Easy Six      | Natural (Seven Out) |
@@ -79,7 +79,7 @@ Placeholder Text
 | 6 | Natural (Seven Out) |      Easy Eight     |     Nine (Nina)     |       Easy Ten      |    Yo (Yo-leven)    |  Boxcars (Midnight) |
 
 
-### Table 1-2: Revised Craps Names
+#### Table 1-2: Revised Craps Names
 |   |         1        |      2     |      3     |      4     |      5      |         6         |
 |:-:|:----------------:|:----------:|:----------:|:----------:|:-----------:|:-----------------:|
 | 1 | Snake Eyes (Two) |    Three   |  Easy Four |    Five    |   Easy Six  |       Seven       |
@@ -90,7 +90,7 @@ Placeholder Text
 | 6 |       Seven      | Easy Eight |    Nine    |  Easy Ten  | Yo (Eleven) | Midnight (Twelve) |
 
 
-### Table 2-1: Craps Odds
+#### Table 2-1: Craps Odds
 | Dice Total | Odds |         Combinations         | # of Combos |  Odds vs. 7 |
 |------------|------|------------------------------|-------------|-------------|
 | 2          | 1/36 | 1+1                          |      1      | 6/1         |
@@ -106,7 +106,7 @@ Placeholder Text
 | 12         | 1/36 | 6+6                          |      1      | 6/1         |
 
 
-### Table 2-2: Additional Odds
+#### Table 2-2: Additional Odds
 
 | Aspect             | Odds        | Effect               |
 |--------------------|-------------|----------------------|
@@ -116,7 +116,7 @@ Placeholder Text
 | Sum: Even          | 18/36 = 1/2 | Minor Positive Bonus |
 
 
-### Table 2-3: Critical
+#### Table 2-3: Critical
 
 | Roll            | Odds | Effect                           |
 |-----------------|------|----------------------------------|
@@ -148,7 +148,7 @@ Aptitudes are in a range of 6 from -2 to +3
 New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 
 
-### Table 3-1: Aptitude Scores
+#### Table 3-1: Aptitude Scores
 | Score | Level        | Effect                                    |
 |-------|--------------|-------------------------------------------|
 | -2    | Awful        | Auto-Failure on most associated tasks     |
@@ -159,8 +159,8 @@ New Characters have 1 Professional, 2 Skilled, 2 Average, 1 Poor, 1 Awful.
 | +3    | Legendary    | Auto-Success on Hard associated tasks     |
 
 
-## Tasks & Actions (a.k.a Doing Things)
-### Table 3-2: Difficulty
+### Tasks & Actions (a.k.a Doing Things)
+#### Table 3-2: Difficulty
 | Difficulty | Success Condition                 | Odds  |
 |------------|-----------------------------------|-------|
 | Mundane    | Auto-Success (unless interesting) | N/A   |
@@ -192,15 +192,15 @@ When you need (or want) to roll dice, this is the procedure:
 2. Roll 2 six-sided dice (2d6) on a flat surface or in a clear cup. *A dice app is also useful in many scenarios, but may not be truly random if you care about such things.*
 3. Interpret results.
 
-## Episodes & Scenes
+### Episodes & Scenes
 **Episodes** are comprised of **Scenes**. **Episodes** are usually the length of the entire duration of the play session & can either be self-contained stories arcs that conclude at the end of the **Episode**, a segment of a larger story arc with cliff-hangers in-between, or an unabridged long-form story arc that suspends/resumes like nothing happened. Ultimately the decision is up to the **Table** & has no effect as to the actual gameplay.
 
-### Time
+#### Time
 
 
 
 
-### Health
+#### Health
 
 Health is measured in **Body** & **Reflex**.
 
@@ -211,13 +211,13 @@ Health is measured in **Body** & **Reflex**.
 **Reflex**: Your ability to avoid and respond to damage, measured by Agility + Knowledge.
 
 
-### Stress
+#### Stress
 
 Stress
 
 
 
-## Characters
+### Characters
 
 There are 3 kinds of characters
 - Player Characters (PCs)
@@ -227,7 +227,7 @@ There are 3 kinds of characters
 The first two are defined as Named Characters.
 Nameless Characters include generic background characters, groups, mobs, and other entities that don't require names.
 
-### Aptitudes
+#### Aptitudes
 
 Named Characters have the following array of scores to assign to their 7 aptitudes. Unnamed characters are handled differently.
 - 1 Professional (+2)
@@ -238,18 +238,18 @@ Named Characters have the following array of scores to assign to their 7 aptitud
 
 
 
-### Relationships
+#### Relationships
 
 Named Characters start the game with 1 Major Ally, 1 Minor Ally, 1 Nemesis, 1 Major Debt they owe, & 1 Minor Debt owed to them.
 You may choose these options yourself or roll for them on the tables below.
 
 
-### Items
+#### Items
 
 Named Characters start the game with 1 Major Significant Item, 1 Minor Significant item, & 5 Mundane Items.
 You may choose these items yourself or roll for them on the tables below.
 
-### 4-1: Significant Items, Major
+##### 4-1: Significant Items, Major
 
 First roll to select the column & then again select the row.
 
@@ -262,7 +262,7 @@ First roll to select the column & then again select the row.
 | 5    | 5      |   |   |   |   |   |   |
 | 6    | 6      |   |   |   |   |   |   |
 
-### 4-2: Significant Items, Minor
+##### 4-2: Significant Items, Minor
 
 First roll to select the column & then again select the row.
 
@@ -275,7 +275,7 @@ First roll to select the column & then again select the row.
 | 5    | 5      |   |   |   |   |   |   |
 | 6    | 6      |   |   |   |   |   |   |
 
-### 4-3: Mundane Items
+##### 4-3: Mundane Items
 
 First roll to select the column & then again select the row.
 
