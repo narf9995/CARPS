@@ -13,7 +13,8 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - setting agnostic (generic rules)
   - limited resources required to play
   - require 2d6 only *(based on Street Craps)*
-  - limit unnecessary rolls
+  - limit unnecessary dice rolls
+  - dice can be cleary & quickly read
   - SRD can fit on 1 sheet of A4 paper
   - clear, yet narratively abstract rules
   - minimal, yet comprehensive rules
@@ -25,6 +26,7 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - online, cross-platform, cheap to print
   - small & non-proprietary file formats
   - treated like an open-source code project
+  - *Unintended Bonus: 1-digit addition practice*
 
 
 ## Introduction
