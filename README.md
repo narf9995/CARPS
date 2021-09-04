@@ -49,7 +49,8 @@ It's easy to place the blame on the players for not learning the system you as a
 
 
 ### Pro/Con List of Existing Solutions:
-- Narrative based systems such as Powered by the Apocalypse
+- Powered by the Apocalypse
+- FATE
 
 
 ## Thesis:
