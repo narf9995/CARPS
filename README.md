@@ -3,7 +3,7 @@
 
 
 ## Premise:
-With accessibility in mind; could a narrative-focused RPG be created using the established odds of street craps (results of 2d6 summed) and mixed/complex interpretation of those results, while staying simple to read, understand, & run?
+With accessibility in mind; could a narrative-focused RPG be created using the established odds of street craps (results of 2d6 summed) & mixed/complex interpretation of those results, while staying simple to read, understand, & run?
 
 
 # Core Concepts / Goals
