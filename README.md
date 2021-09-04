@@ -3,22 +3,25 @@
 ## Premise:
 Could a narrative-focused RPG be created using craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
 
+
 # Core Concepts / Goals
+  - accessibility focus:
+    WCAG compliant, screenreader compatible, limited images, limited math
+  - gh-markdown & YAML for easy formating & localization
   - setting agnostic (generic rules)
-  - 2d6 only, no dice added
-  - based on craps odds/nicknames
+  - require 2d6 only *(based on Street Craps)*
   - limit unnecessary rolls
-  - clear, yet abstract rules
-  - minimal, yet comprehensive rules
   - SRD can fit on 1 sheet of A4 paper
+  - clear, yet narratively abstract rules
+  - minimal, yet comprehensive rules
   - storytelling/narrative focus
-  - easy for new players
-  - Ages 5 and up with an adult
+  - easy for new players & those 
+  - ages 5 and up with an adult
   - players allowed to affect narrative
   - connect players with world
   - open, modular, easy to homebrew
   - online, cross-platform, printable
-  - accessible for disabilities: WCAG compliant, digital & physical copies, screenreader compatible
+
 
 
 ## Thesis:
