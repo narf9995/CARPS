@@ -23,6 +23,8 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - ages 5 and up with an adult 
   - open, modular, easy to homebrew
   - online, cross-platform, cheap to print
+  - small & open file formats
+  - treated like an open-source code project
 
 
 ## Introduction
@@ -193,13 +195,13 @@ When you need (or want) to roll dice, this is the procedure:
 
 ### Health
 
-Health is measured in **Flesh** & **Grit**.
+Health is measured in **Body** & **Reflex**.
 
 
-**Flesh**: The physical constraints of your body, measured by Physical.
+**Body**: The physical constraints of your body, measured by Physical.
 
 
-**Grit**: Your ability to avoid and respond to damage, measured by Agility + Knowledge.
+**Reflex**: Your ability to avoid and respond to damage, measured by Agility + Knowledge.
 
 
 ### Stress
