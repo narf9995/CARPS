@@ -3,7 +3,7 @@
 
 
 ## Premise:
-Could a narrative-focused RPG be created using craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
+Could a narrative-focused RPG be created using street craps odds (results of 2d6 summed) with mixed/complex interpretation of the results, while staying easy-to-read & simple for new players to understand?
 
 
 # Core Concepts / Goals
