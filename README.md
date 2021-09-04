@@ -19,7 +19,7 @@ Could a narrative-focused RPG be created using craps odds (results of 2d6 summed
   - clear, yet narratively abstract rules
   - minimal, yet comprehensive rules
   - storytelling/narrative focus
-  - players allowed to affect narrative
+  - players can meaningfully (& mechanically) affect narrative
   - connect players with world
   - ages 5 and up with an adult 
   - open, modular, easy to homebrew
