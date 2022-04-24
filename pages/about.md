@@ -2,7 +2,7 @@
 
 ## CARPS Core (CARPS_CORE)
 The "program".
-- Generic
+- Generic, yet opinionated
 - Bare Essentials
 - Rules-Lite
 - OSR
