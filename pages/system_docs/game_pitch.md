@@ -1,5 +1,4 @@
 # Craps-based Accessible Role Playing System (CARPS)
-[Skip to Rules](https://github.com/narf9995/CARPS/blob/main/README.md#proposed-carps-core-rules)
 
 ## Premise
 With accessibility in mind; could a narrative-focused RPG with an OSR/Nu-SR design ethos be created using the established odds of street craps (2d6 summed), with complex interpretation of those results, while staying simple to read, understand, & run?
