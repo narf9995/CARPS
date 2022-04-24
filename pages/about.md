@@ -1,6 +1,12 @@
 # Coding Analogy
 Generally speaking programs, frameworks, & libraries are all code written by someone else that helps you perform some common tasks without having to "reinvent the wheel" & code it all by yourself.
 
+
+- An application is computer software designed to help a user perform specific tasks.
+- A computing platform includes a hardware architecture and a software framework that allow application software to run—for example, the operating system and programming languages.
+- A software framework helps facilitate software development by providing generic capabilities that can be changed or configured to create a specific software application.
+
+
 ## Details
 - The technical difference between a framework and library lies in a term called **Inversion of Control**.
 - When you use a library, you are in charge of the flow of the application.
