@@ -1,6 +1,9 @@
+# RPG Design
+Archive of this post
+
 When I’m thinking about this concern in my own work, I break it out into a whole array of design questions.
 
-Replayability:
+## Replayability:
 
 - Do I intend this game for single-session play or multi-session play? If the latter, how do I win the players over into playing the next session?
 
@@ -12,7 +15,7 @@ Replayability:
 
 - Or how about this one: Do I care whether people replay this game at all, or do I hope that they play it once, and go on to check out my other games instead?
 
-Specificity:
+## Specificity
 
 - What’s the entire range of actions and situations that I intend this game to cover? Everything? A wide range, but not everything? A narrow range?
 
@@ -28,7 +31,7 @@ For any given individual action or situation within its range:
 
 - Should the game set this action or situation on equal footing with others? Should it play it up? Play it down? Highlight it? Put it behind warning tape? Or what?
 
-Marketing:
+## Marketing
 
 - Is this game’s audience people who’ve played my other games, people who’ve played other games like mine, people who’ve played ttrpgs, people who like D&D, people who’ve played D&D and want something the same but different, people who’ve never roleplayed?
 
