@@ -3,4 +3,4 @@
 [README is a current WIP.]
 
 
-Rules have been placed in the pages directory & this page will be repurposed as a overview/directory of the project.
+Rules have been placed in the pages directory & this page will be repurposed as an overview/directory of the project.
