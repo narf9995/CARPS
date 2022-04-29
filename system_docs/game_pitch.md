@@ -19,7 +19,7 @@ With accessibility in mind; could a narrative-focused RPG with an OSR/Nu-SR desi
 - storytelling/narrative focus
 - players can meaningfully (& mechanically) affect narrative
 - connect players with world via mechanics
-- ages 5 and up with an adult 
+- ages 5 and up with an adult
 - open, modular, easy to homebrew
 - online, cross-platform, cheap to print
 - small & non-proprietary file formats
