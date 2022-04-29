@@ -3,7 +3,7 @@
 [README is a current WIP.]
 
 
-Rules have been placed in the /pages/system directory.
+Rules have been placed in ~/system
 
 
 The current version of the rules is 1.0.0 & there are 3 variations: Core, Extended, & Advanced.
