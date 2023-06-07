@@ -306,6 +306,9 @@ The size of combat is limited by the size of the environment. If the space is 60
 - Stun
 - Trip
 - Grapple
+
+# REFERENCE
+
 # Crowns 
 If one side is ambushing the other, they and their allies go first. Otherwise, make a COR save to see if they act before their targets. This save reoccurs at the start of each turn. 
 
