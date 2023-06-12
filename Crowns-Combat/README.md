@@ -9,8 +9,8 @@ This system is being openly developed under the MIT license (TL;DR: you can use 
 
 ## Directory
 There are 3 variations of the system:
-- [Core]()
-- [Extended]()
-- [Advanced]()
+- [Core](https://github.com/narf9995/CARPS/blob/main/Crowns-Combat/combat_core.md)
+- [Extended](https://github.com/narf9995/CARPS/blob/main/Crowns-Combat/combat_extended.md)
+- [Advanced](https://github.com/narf9995/CARPS/blob/main/Crowns-Combat/combat_advanced.md)
 
 **Core** is the basic system with a focus on simplicity. **Extended** is an expanded ruleset that shows how CARPS-style combat can be implemented in another role-playing system or expanded with your own houserules. **Advanced** is a collection of compatible ideas that could be added in or built upon, mainly to demonstate the modularity of the system.
