@@ -14,5 +14,7 @@ There are 3 variations of the system:
 - [Advanced](https://github.com/narf9995/CARPS/blob/main/Crowns-Combat/combat_advanced.md)
 
 **Core** is the basic system with a focus on simplicity.
+
 **Extended** is an expanded ruleset that shows how CARPS-style combat can be implemented in another role-playing system or expanded with your own houserules.
+
 **Advanced** is a collection of compatible ideas that could be added in or built upon, mainly to demonstate the modularity of the system.
