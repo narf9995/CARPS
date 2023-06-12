@@ -1,5 +1,17 @@
 ## Extended
-This is a slightly more complicated version of combat with less concessions that still works as a somewhat standalone system. It's the structure on which much more advanced combat can be built. The this edition of the Extended System can also be used as an example of the Core System implemented into another another RPG system, in this case, Crowns 1e. 
+This is a slightly more complicated version of combat with less concessions that still works as a somewhat standalone system. It's the structure on which much more advanced combat can be built. The this edition of the Extended System can also be used as an example of the Core System implemented into another another RPG system, in this case, Crowns 1e.
+
+**Important Notation:**
+- **U = Unit (typically *Yards* or *Meters*)**
+  - For our purposes, there is **1 U (yard/meter) for every 3 feet**.
+    - So to convert from U to feet, divide the sum by 3.
+    - To convert from feet to U, multiply the sum by 3.
+  - Although yards & meters have slightly different lengths, a concession is made for easy localization.
+    - You may **replace U with the unit you are most comfortable with** when reading anything with this notation.
+    - You can even substitute another unit such as an inch or mile if your scale changes significantly.
+  - Alternatively, 2U is 6 feet, which is *almost* 5 feet. **If you don't care about specific measurements, you can just subsutitute 2U squares for the standard 5ft squares** with basically zero side effects to gameplay. 
+  
+  - **Ultimately, the only thing that matters is that you have a *standardized unit of space.***
 
 ### Basics
 #### Turn Order
