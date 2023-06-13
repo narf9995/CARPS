@@ -34,9 +34,9 @@ It takes a number of Move actions equal to the Distance Value of a Zone for a co
 **Name** | **Distance Value (DV)** | **Range (Feet)** | **Allowed Attacks**
 :---:|:---:|:---:|:---:
 **Grappling** | 0 | 0-1U (0-3ft) | Hand-to-Hand & Light Melee
-**Close** | 0 | 1-2U (3-6ft) | Hand-to-Hand, Light Melee, Medium Melee, Heavy Melee†, & Magic
-**Near** | 1 | 2-4U (6-12ft) | Heavy Melee, Ranged, & Magic
-**Far** | 2 | 4-20U (12-60ft) | Ranged & Magic
+**Close** | 0 | 1-2U (4-6ft) | Hand-to-Hand, Light Melee, Medium Melee, Heavy Melee†, & Magic
+**Near** | 1 | 3-4U (7-12ft) | Heavy Melee, Ranged, & Magic
+**Far** | 2 | 5-20U (13-60ft) | Ranged & Magic
 **Evade** | 2* | State | Strong Magic
 
 *This is a disengaged State with no relative position in combat. It only costs 2 Move Actions for game mechanic purposes & denotes no rank among the other distances.
@@ -65,7 +65,7 @@ In the **Near Zone - 2** *(3 to 4 U)*, you can attack with:
 In the **Far Zone - 3** *(11 to 60 feet)*, you can attack with:
 - Short-Ranged
 
-When combat begins, if neither group is **Surprised** (or given other situational advantage/disadvantage), all combatants currently engaged with are in the **Near Zone**. If one group has a significant advantage/disadvantage such as **Surprised**, the group with the advantage can pick which Zones they occupy.
+When combat begins, if neither group is **Surprised**, all combatants currently engaged with are in the **Near Zone**. If one group has a significant advantage/disadvantage such as **Surprised**, the group with the advantage can pick which zones they occupy.
 
 ##### Zones Explained
 Generally, Zones should viewed from the  perspective of the group with the advantage in combat with ties being decided by a simple majority at the beginning of combat. “I’m staying back at a Ranged Distance” or “I’m closing to Close Range” is one way to view it. Opponents & Allies move between Zones just as players can, instead of remaining “stationary” as the adventurers move around them.
